@@ -1,0 +1,24 @@
+#contact-us-image {
+  width: 70%;
+  align-content: center;
+}
+
+#page-heading-h1 {
+  text-align: center;
+  font-size: 40px;
+  color: #4c4c4c;
+  font-family: helvetica;
+  font-weight: bolder;
+}
+
+.col {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+#contact-text {
+  color: #4e4e4e;
+  font-size: 15px;
+  font-family: roboto;
+}
+
